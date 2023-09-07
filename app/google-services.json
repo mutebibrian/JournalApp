@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "140759960754",
+    "project_id": "fir-journal-5aeb1",
+    "storage_bucket": "fir-journal-5aeb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140759960754:android:2961a61a3204f8e3784dab",
+        "android_client_info": {
+          "package_name": "com.mastercoding.journalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140759960754-k5j57kulh6sp31lsietf98tdg9ub71e9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mastercoding.journalapp",
+            "certificate_hash": "7d924ec2d7322690198848a2b598ee95bdc33da0"
+          }
+        },
+        {
+          "client_id": "140759960754-nb5fq3uv9uthp77jjbgjpvo4jgitepfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRPavE4Kbpp0XTo9HvM11ALdcrMa5_yHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140759960754-nb5fq3uv9uthp77jjbgjpvo4jgitepfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
